@@ -12,6 +12,8 @@
     ├── Week6_Binary_Tree
     ├── Week7_Binary_Search_Tree
     ├── Week9_Searching_Hash_Tables
-    └── Week10_Graph
+    ├── Week10_Graph
+    ├── Week11_Backtracking
+    └── Week12_Dynamic_Programming
 ```
 
